@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:30/11/24
+## Register Number:24900506
+## Name:MANASA DEVI AT
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
@@ -10,16 +10,57 @@ Background: Alumni associations play a pivotal role in fostering lifelong connec
 Government of Gujarat
 
 ## Idea
+1.Mentorship Platform
+Matches alumni with students for mentoring.
+Tracks mentoring goals and progress.
+
+2.Crowdfunding Hub
+Alumni fund student projects or institutional initiatives.
+Transparent tracking of donation impacts.
+
+3.Gamified Engagement
+Rewards for donations, events, and activities.
+Leaderboards and challenges to boost participation.
+
+4.Skills Marketplace
+Alumni offer workshops, courses, and freelancing jobs.
+Certifications and knowledge exchange.
+
+5.Travel Network
+Connect alumni traveling to similar destinations.
+Hosting and local meetup opportunities.
+
+6.Success Analytics
+Tracks alumni achievements and career paths.
+Data helps improve institutional programs.
+
+7.Wellness Network
+Provides mental health and career transition support.
+Wellness workshops and coaching sessions.
+
+8.Media Hub
+Alumni share stories via videos, photos, and podcasts.
+Digital archive for memories and achievements
 
 
 ## Proposed Solution / Architecture Diagram
-
+![screenshotdiagram](https://github.com/user-attachments/assets/8ccf7732-510c-46d1-8bb9-9c58a60bd2f3)
 
 ## Use Cases
-
+![Screenshot 2024-11-29 131336](https://github.com/user-attachments/assets/512e9c54-5ebf-404d-bf71-bead4465415a)
 
 ## Technology Stack
-
+1.Frontend: React.js/Angular/Vue.js.
+2.Backend: Node.js (Express), Django, or Spring Boot.
+3.Database: PostgreSQL, MySQL, or MongoDB.
+4.Authentication: OAuth2, Firebase Auth, or JWT.
+5.Razorpay, Stripe, or PayPal for secure donations.
 
 ## Dependencies
+Frontend Development: 15 days.
 
+Backend Development: 20 days.
+
+Integration and Testing: 10 days.
+
+Budget: ₹50,000
